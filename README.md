@@ -1,36 +1,38 @@
-# 🌦 Weatherly
+# 🌦 SkyNiq  
 
-Weatherly is a modern and user-friendly weather application built using **React Native & Expo**.  
-The app provides real-time weather updates with a clean and elegant UI, helping users stay informed and plan their day easily.
+SkyNiq is a modern **weather application** built with React Native & Expo, providing real-time weather updates with an elegant UI. Stay informed about temperature, humidity, wind speed, and forecasts with ease.  
 
 ---
 
-## ✨ Features
-
+## ✨ Features  
 - 🌍 Real-time weather updates by city search  
-- 🔍 Smart city search with auto-suggestions  
-- 🗺 Interactive map view with location marker  
-- 📊 Detailed weather information (temperature, humidity, wind speed, conditions)  
-- 🎨 Modern UI with gradients and weather-based backgrounds  
-- ⚡ Fast and optimized performance  
-- 📱 Cross-platform support (Android & iOS)
+- 🗺 Interactive **map integration** with location marker  
+- 🔍 Auto-suggest city search with smooth UX  
+- 📊 Detailed weather info (temperature, humidity, wind, conditions)  
+- 🎨 Modern UI with background images & gradients  
+- ⚡ Fast & optimized performance  
 
 ---
 
-## 🚀 Tech Stack
-
-- React Native  
-- Expo  
-- OpenWeather API  
-- Google Maps API  
-- JavaScript (ES6+)
+## 🚀 Tech Stack  
+- **React Native**  
+- **Expo**  
+- **OpenWeather API**  
+- **Google Maps API**  
 
 ---
 
-## 📦 Installation
+## 📦 Installation  
 
 ```bash
-git clone https://github.com/your-username/Weatherly.git
-cd Weatherly
-npm install
+# Clone the repository
+git clone https://github.com/your-username/SkyNiq.git  
+
+# Navigate into the project folder
+cd SkyNiq  
+
+# Install dependencies
+npm install  
+
+# Start the development server
 npx expo start
